@@ -10,9 +10,9 @@ if not os.path.exists(path):
 file_types = {
     'Images': ['jpg','jpeg','png','svg'],
     'Pdfs': ['pdf'],
-    'Documents':['txt','pptx','xlsx'],
+    'Documents':['txt','pptx'],
     'Word':['docx','doc'],
-    'Excell':['csv'],
+    'Excell':['csv','xlsx'],
     'Videos':['mkv','mp4','avi'],
     'Audio':['mp3','wav'],
     'Zip':['zip'],
